@@ -8,4 +8,5 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 
 Berikut daftar Volunter yang diterima:
 
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).    
+* Muhamad Aziz, [GitHub](https://github.com/aziz-28)
